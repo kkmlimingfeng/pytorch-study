@@ -1,4 +1,5 @@
 # pytorch study
+**可以先打开Installed，将需要安装的包装一下**
 ## 2025年12月20日
 自用pytorch入门笔记（ipynb版）
 ### pytorch-study内容介绍
