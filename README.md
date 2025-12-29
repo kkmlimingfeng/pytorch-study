@@ -27,10 +27,13 @@
 - 解码器（官方的和自己实现）
 - Transformer（自己实现以及简单训练测试效果）
 
-## 2025年12月27日-？
+## 2025年12月27日-12月29日-？
 想玩一下StableDiffusion，后续想学一下使用ComfyUI
 ### StableDiffusion内容介绍
-- 如何使用StableDiffusion (4G显存显卡即可运行，可NSFW)
+- 使用StableDiffusion进行文生图和图生图 (4G显存显卡即可运行，可NSFW)
+- 使用Waifu-Diffusion生图，4G显存可跑
+- 使用Z-Image生图，需要14G显存
+- 使用lightx2v 和 wan2.1文生视频1.3B模型（wan2.2-14B还未成功）
 - （以下还没有写）
 - 使用ControlNet生成可控图像
 - LoRA 微调
